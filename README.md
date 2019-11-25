@@ -1,4 +1,4 @@
 --------------------------------------README-----------------------------------
 
-To get assets :
-    -run getasset.py with python3
+To push a optimized portfolio and check it compability with rules:
+    -run finance.py with python3
